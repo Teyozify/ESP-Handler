@@ -1,3 +1,4 @@
+-- by teyozify
 local CIELUV = {} do
 	
 local clamp = math.clamp
